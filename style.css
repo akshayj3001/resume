@@ -48,6 +48,7 @@ p {
 a {
     margin: .2em auto;
     word-wrap: break-word; 
+    colour: orange;
 }
 
 hr {
@@ -68,4 +69,5 @@ table, th, td {
     border:1px solid black;
     border-collapse: collapse;
     word-wrap: break-word; 
+    border-color: white;
   }
